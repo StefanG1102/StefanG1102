@@ -8,39 +8,6 @@ I'm a developer and game development enthusiast currently studying and working o
 - Working with **Next.js, React and Supabase**
 - Setting up workflows, CI/CD and project management for future indie game projects
 
-## Tech & Tools
-
-**Languages**
-- TypeScript / JavaScript
-- Python
-- GDScript
-- SQL
-
-**Web**
-- Next.js
-- React
-- Tailwind CSS
-- shadcn/ui
-- Flask
-
-**Game Development**
-- Godot
-- GDScript
-- Unity *(exploring)*
-
-**Data & AI**
-- Supabase
-- PostgreSQL
-- pgvector
-- Ollama
-
-**Tools**
-- Git & GitHub
-- Docker
-- Storybook
-- VS Code
-- Figma / Affinity Designer
-
 ## Current Focus
 
 Right now, I'm especially interested in:
